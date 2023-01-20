@@ -8,4 +8,5 @@ JavaScript
 Git e GitHub
 
 💻 Projeto
+
 O Projeto Barbearia Alura é um projeto onde utilizei HTML, CSS e Js para desenvolver o site de uma barbearia.
